@@ -84,7 +84,7 @@
         </div>
     <?php endforeach; ?>
 <?php else: ?>
-    <p>No photos in this album yet.</p>
+    <p style='text-align: center';>No photos in this album yet.</p>
 <?php endif; ?>
 
 </body>
